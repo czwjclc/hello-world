@@ -1,1 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2021-01-29T14:38:13.628Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.2.7" etag="jrL6-O1u6bEfxGqKBw1S" type="github"><diagram id="mqJcfQc4B2EgMt1HBnuT">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-29T14:45:52.330Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="HyKmG4Hjubd7-PJk1jkD" version="14.2.7" type="github">
+  <diagram id="mqJcfQc4B2EgMt1HBnuT" name="Page-1">
+    <mxGraphModel dx="1278" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DclPN0pKw0OZvBV1zdIO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DclPN0pKw0OZvBV1zdIO-1" target="DclPN0pKw0OZvBV1zdIO-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DclPN0pKw0OZvBV1zdIO-1" value="Spring-boot" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DclPN0pKw0OZvBV1zdIO-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DclPN0pKw0OZvBV1zdIO-2" target="DclPN0pKw0OZvBV1zdIO-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DclPN0pKw0OZvBV1zdIO-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DclPN0pKw0OZvBV1zdIO-2" target="DclPN0pKw0OZvBV1zdIO-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="210" />
+              <mxPoint x="400" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DclPN0pKw0OZvBV1zdIO-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.58;entryY=-0.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DclPN0pKw0OZvBV1zdIO-2" target="DclPN0pKw0OZvBV1zdIO-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DclPN0pKw0OZvBV1zdIO-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DclPN0pKw0OZvBV1zdIO-2" target="DclPN0pKw0OZvBV1zdIO-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DclPN0pKw0OZvBV1zdIO-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DclPN0pKw0OZvBV1zdIO-2" target="DclPN0pKw0OZvBV1zdIO-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DclPN0pKw0OZvBV1zdIO-2" value="heima-leadnews" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DclPN0pKw0OZvBV1zdIO-4" value="heima-leadnews-common&lt;br&gt;&lt;br&gt;公共配置项目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="340" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="DclPN0pKw0OZvBV1zdIO-5" value="&lt;span&gt;heima-leadnews-model&lt;br&gt;&lt;br&gt;公共Model项目&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="340" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="DclPN0pKw0OZvBV1zdIO-6" value="&lt;span&gt;heima-leadnews-utils&lt;br&gt;&lt;br&gt;公共工具类&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="340" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="DclPN0pKw0OZvBV1zdIO-7" value="&lt;span&gt;heima-leadnews-apis&lt;br&gt;&lt;br&gt;微服务暴露接口定义项目&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="340" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DclPN0pKw0OZvBV1zdIO-8" value="&lt;span&gt;heima-leadnews-tests&lt;br&gt;&lt;br&gt;工程通用测试代码项目&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="340" width="120" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
