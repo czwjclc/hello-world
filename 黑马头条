@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-02-01T02:04:51.516Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.2.7" etag="MIOLHKw5FYeYAY421A4F" type="github"><diagram id="gdL05VqiSPjCEm7FUa0C">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-01T02:09:01.482Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="MHAVs3WfZH_7D5J08tXN" version="14.2.7" type="github">
+  <diagram id="gdL05VqiSPjCEm7FUa0C" name="Page-1">
+    <mxGraphModel dx="1278" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HeZ48AVlTamMY9ugcClH-1" value="网关设计模式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="50" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HeZ48AVlTamMY9ugcClH-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.373;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HeZ48AVlTamMY9ugcClH-2" target="HeZ48AVlTamMY9ugcClH-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HeZ48AVlTamMY9ugcClH-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="210" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HeZ48AVlTamMY9ugcClH-3" value="gateWay&lt;br&gt;&lt;br&gt;&lt;br&gt;过滤器" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="120" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="HeZ48AVlTamMY9ugcClH-6" value="localhost:6001/user/api/v1/auth/aythPath&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="70" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HeZ48AVlTamMY9ugcClH-7" value="localhaost:6001/admin/login/in" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="90" width="180" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
